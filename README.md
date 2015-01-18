@@ -9,3 +9,7 @@ Source files are the .txt file. Open the file in [http://glyphrstudio.com/](Glyp
 ## Specimen
 
 ![Specimen image](specimen.png)
+
+## License
+
+This font is under [Open Font License](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) (OFL).
