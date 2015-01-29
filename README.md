@@ -1,6 +1,6 @@
 # Résistance Générale
 
-Font created using [Glyphr Studio](http://glyphrstudio.com/) by the stutents of ENSAD Paris, with the help of the F/LOS foundry [Velvetyne](http://velvetyne.fr/).
+Font created using [Glyphr Studio](http://glyphrstudio.com/) by the students of ENSAD Paris at [La Générale](http://www.lagenerale.fr/), with the help of the F/LOS foundry [Velvetyne](http://velvetyne.fr/).
 
 ## Source file
 
