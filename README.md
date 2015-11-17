@@ -8,8 +8,15 @@ Source files are the .txt file. Open the file in [Glyphr Studio](http://glyphrst
 
 ## Specimen
 
-![Specimen image](specimen/specimen.png)
+![Specimen image](documentation/images/01.png)
+![Specimen image](documentation/images/specimen.png)
 
 ## License
 
 This font is under OFL ([Open Font License](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)).
+
+## Repository Layout
+
+This font repository follows the Unified Font Repository v2.0, 
+a standard way to organize font project source files. Learn more at 
+https://github.com/raphaelbastide/Unified-Font-Repository
