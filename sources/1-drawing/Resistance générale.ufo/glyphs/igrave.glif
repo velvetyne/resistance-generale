@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="igrave" format="1">
+  <advance width="3052"/>
+  <unicode hex="00EC"/>
+  <outline>
+    <contour>
+      <point x="96" y="1024" type="line"/>
+      <point x="96" y="171" type="line"/>
+      <point x="291" y="0" type="line"/>
+      <point x="2927" y="0" type="line"/>
+      <point x="2927" y="853" type="line"/>
+      <point x="2720" y="1024" type="line"/>
+    </contour>
+    <contour>
+      <point x="1383" y="1441" type="line"/>
+      <point x="1383" y="1259" type="line"/>
+      <point x="1458" y="1184" type="line"/>
+      <point x="1640" y="1184" type="line"/>
+      <point x="1640" y="1281" type="line"/>
+      <point x="1511" y="1313" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

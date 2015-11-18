@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="odieresis" format="1">
+  <advance width="1010"/>
+  <unicode hex="00F6"/>
+  <outline>
+    <contour>
+      <point x="674" y="1024" type="line"/>
+      <point x="368" y="1024" type="line"/>
+      <point x="137" y="768" type="line"/>
+      <point x="137" y="256" type="line"/>
+      <point x="368" y="0" type="line"/>
+      <point x="673" y="0" type="line"/>
+      <point x="905" y="256" type="line"/>
+      <point x="905" y="768" type="line"/>
+    </contour>
+    <contour>
+      <point x="393" y="256" type="line"/>
+      <point x="393" y="927" type="line"/>
+      <point x="521" y="895" type="line"/>
+      <point x="649" y="767" type="line"/>
+      <point x="649" y="97" type="line"/>
+    </contour>
+    <contour>
+      <point x="356" y="1441" type="line"/>
+      <point x="239" y="1324" type="line"/>
+      <point x="356" y="1206" type="line"/>
+      <point x="473" y="1324" type="line"/>
+    </contour>
+    <contour>
+      <point x="644" y="1441" type="line"/>
+      <point x="527" y="1324" type="line"/>
+      <point x="644" y="1206" type="line"/>
+      <point x="761" y="1324" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

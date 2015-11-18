@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Egrave" format="1">
+  <advance width="1151"/>
+  <unicode hex="00C8"/>
+  <outline>
+    <contour>
+      <point x="831" y="1400" type="line"/>
+      <point x="170" y="1400" type="line"/>
+      <point x="170" y="0" type="line"/>
+      <point x="865" y="0" type="line"/>
+      <point x="1024" y="127" type="line"/>
+      <point x="1024" y="254" type="line"/>
+      <point x="840" y="254" type="line"/>
+      <point x="840" y="255" type="line"/>
+      <point x="586" y="96" type="line"/>
+      <point x="586" y="97" type="line"/>
+      <point x="424" y="97" type="line"/>
+      <point x="424" y="636" type="line"/>
+      <point x="679" y="636" type="line"/>
+      <point x="679" y="763" type="line"/>
+      <point x="424" y="763" type="line"/>
+      <point x="424" y="1303" type="line"/>
+      <point x="552" y="1303" type="line"/>
+      <point x="552" y="1303" type="line"/>
+      <point x="679" y="1272" type="line"/>
+      <point x="806" y="1145" type="line"/>
+      <point x="806" y="1145" type="line"/>
+      <point x="990" y="1145" type="line"/>
+      <point x="989" y="1272" type="line"/>
+    </contour>
+    <contour>
+      <point x="410" y="1798" type="line"/>
+      <point x="410" y="1616" type="line"/>
+      <point x="485" y="1541" type="line"/>
+      <point x="667" y="1541" type="line"/>
+      <point x="667" y="1638" type="line"/>
+      <point x="538" y="1670" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

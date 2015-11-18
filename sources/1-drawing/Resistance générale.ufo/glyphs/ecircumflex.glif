@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ecircumflex" format="1">
+  <advance width="961"/>
+  <unicode hex="00EA"/>
+  <outline>
+    <contour>
+      <point x="488" y="1441" type="line"/>
+      <point x="360" y="1312" type="line"/>
+      <point x="232" y="1281" type="line"/>
+      <point x="232" y="1184" type="line"/>
+      <point x="413" y="1184" type="line"/>
+      <point x="488" y="1259" type="line"/>
+      <point x="563" y="1184" type="line"/>
+      <point x="744" y="1184" type="line"/>
+      <point x="744" y="1281" type="line"/>
+      <point x="616" y="1312" type="line"/>
+    </contour>
+    <contour>
+      <point x="336" y="1024" type="line"/>
+      <point x="104" y="768" type="line"/>
+      <point x="104" y="256" type="line"/>
+      <point x="336" y="0" type="line"/>
+      <point x="616" y="0" type="line"/>
+      <point x="616" y="0" type="line"/>
+      <point x="808" y="104" type="line"/>
+      <point x="808" y="197" type="line"/>
+      <point x="711" y="197" type="line"/>
+      <point x="539" y="145" type="line"/>
+      <point x="360" y="256" type="line"/>
+      <point x="360" y="384" type="line"/>
+      <point x="640" y="384" type="line"/>
+      <point x="872" y="640" type="line"/>
+      <point x="872" y="768" type="line"/>
+      <point x="641" y="1024" type="line"/>
+    </contour>
+    <contour>
+      <point x="360" y="927" type="line"/>
+      <point x="488" y="896" type="line"/>
+      <point x="616" y="768" type="line"/>
+      <point x="616" y="640" type="line"/>
+      <point x="488" y="512" type="line"/>
+      <point x="360" y="481" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

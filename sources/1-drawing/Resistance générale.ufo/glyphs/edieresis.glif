@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="edieresis" format="1">
+  <advance width="909"/>
+  <unicode hex="00EB"/>
+  <outline>
+    <contour>
+      <point x="295" y="1023" type="line"/>
+      <point x="64" y="768" type="line"/>
+      <point x="64" y="256" type="line"/>
+      <point x="295" y="0" type="line"/>
+      <point x="576" y="0" type="line"/>
+      <point x="576" y="0" type="line"/>
+      <point x="767" y="104" type="line"/>
+      <point x="767" y="197" type="line"/>
+      <point x="671" y="197" type="line"/>
+      <point x="498" y="145" type="line"/>
+      <point x="320" y="256" type="line"/>
+      <point x="320" y="384" type="line"/>
+      <point x="600" y="384" type="line"/>
+      <point x="832" y="640" type="line"/>
+      <point x="832" y="768" type="line"/>
+      <point x="600" y="1023" type="line"/>
+    </contour>
+    <contour>
+      <point x="320" y="927" type="line"/>
+      <point x="448" y="896" type="line"/>
+      <point x="576" y="768" type="line"/>
+      <point x="576" y="640" type="line"/>
+      <point x="448" y="512" type="line"/>
+      <point x="320" y="481" type="line"/>
+    </contour>
+    <contour>
+      <point x="309" y="1441" type="line"/>
+      <point x="192" y="1324" type="line"/>
+      <point x="309" y="1206" type="line"/>
+      <point x="426" y="1324" type="line"/>
+    </contour>
+    <contour>
+      <point x="597" y="1441" type="line"/>
+      <point x="480" y="1324" type="line"/>
+      <point x="597" y="1206" type="line"/>
+      <point x="714" y="1324" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

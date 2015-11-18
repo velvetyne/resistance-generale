@@ -13,6 +13,7 @@ Source files are the .txt file. Open the file in [Glyphr Studio](http://glyphrst
 
 ## License
 
+Creators : Pauline Cormault, Esther Michaud, Claire Mucchieli, Merlin Andreae, Raphaël Maman, Pedro Gomes-Cardoso, Juliette Nier, Gabrielle Meistretty, Damien Bauza.
 This font is under OFL ([Open Font License](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)).
 
 ## Repository Layout

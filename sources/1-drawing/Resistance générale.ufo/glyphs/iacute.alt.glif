@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iacute.alt" format="1">
+  <advance width="584"/>
+  <outline>
+    <contour>
+      <point x="436" y="1441" type="line"/>
+      <point x="308" y="1313" type="line"/>
+      <point x="180" y="1281" type="line"/>
+      <point x="180" y="1184" type="line"/>
+      <point x="361" y="1184" type="line"/>
+      <point x="436" y="1259" type="line"/>
+    </contour>
+    <component base="dotlessi.alt"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

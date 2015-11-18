@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ograve" format="1">
+  <advance width="1143"/>
+  <unicode hex="00D2"/>
+  <outline>
+    <contour>
+      <point x="776" y="1400" type="line"/>
+      <point x="345" y="1400" type="line"/>
+      <point x="115" y="1145" type="line"/>
+      <point x="115" y="764" type="line"/>
+      <point x="115" y="764" type="line"/>
+      <point x="115" y="255" type="line"/>
+      <point x="345" y="0" type="line"/>
+      <point x="776" y="0" type="line"/>
+      <point x="1006" y="255" type="line"/>
+      <point x="1006" y="1145" type="line"/>
+    </contour>
+    <contour>
+      <point x="370" y="1304" type="line"/>
+      <point x="497" y="1304" type="line"/>
+      <point x="624" y="1272" type="line"/>
+      <point x="751" y="1145" type="line"/>
+      <point x="751" y="96" type="line"/>
+      <point x="624" y="96" type="line"/>
+      <point x="624" y="96" type="line"/>
+      <point x="370" y="255" type="line"/>
+      <point x="370" y="764" type="line"/>
+      <point x="370" y="764" type="line"/>
+    </contour>
+    <contour>
+      <point x="412" y="1798" type="line"/>
+      <point x="412" y="1616" type="line"/>
+      <point x="487" y="1541" type="line"/>
+      <point x="669" y="1541" type="line"/>
+      <point x="669" y="1638" type="line"/>
+      <point x="540" y="1670" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,5 @@
+feature salt{
+    sub [i igrave iacute icircumflex idieresis] by [i.alt igrave.alt iacute.alt icircumflex.alt idieresis.alt];
+    
+    }salt;
+    

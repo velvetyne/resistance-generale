@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oacute" format="1">
+  <advance width="1010"/>
+  <unicode hex="00F3"/>
+  <outline>
+    <contour>
+      <point x="674" y="1024" type="line"/>
+      <point x="368" y="1024" type="line"/>
+      <point x="137" y="768" type="line"/>
+      <point x="137" y="256" type="line"/>
+      <point x="368" y="0" type="line"/>
+      <point x="673" y="0" type="line"/>
+      <point x="905" y="256" type="line"/>
+      <point x="905" y="768" type="line"/>
+    </contour>
+    <contour>
+      <point x="393" y="256" type="line"/>
+      <point x="393" y="927" type="line"/>
+      <point x="521" y="895" type="line"/>
+      <point x="649" y="767" type="line"/>
+      <point x="649" y="97" type="line"/>
+    </contour>
+    <contour>
+      <point x="649" y="1441" type="line"/>
+      <point x="521" y="1313" type="line"/>
+      <point x="393" y="1281" type="line"/>
+      <point x="393" y="1184" type="line"/>
+      <point x="574" y="1184" type="line"/>
+      <point x="649" y="1259" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
