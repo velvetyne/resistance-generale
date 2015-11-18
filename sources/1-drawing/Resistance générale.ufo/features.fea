@@ -1,5 +1,9 @@
 feature salt{
-    sub [i igrave iacute icircumflex idieresis] by [i.alt igrave.alt iacute.alt icircumflex.alt idieresis.alt];
-    
+    lookup i_alternatif{
+        sub [i igrave iacute icircumflex idieresis] by [i.alt igrave.alt iacute.alt icircumflex.alt idieresis.alt];
+        } i_alternatif;
     }salt;
     
+feature ss01{
+    lookup i_alternatif;
+    }ss01;
